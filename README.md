@@ -1,6 +1,8 @@
 # Vuex Firestore Pokemon Starter Example
 ## Demo
-[https://pokemonexempel.web.app/login](Pokemon demo!)
+[Pokemon demo!](https://pokemonexempel.web.app/login)
+
+Kommer lägga upp mer text senare!
 ## Project setup
 ```
 npm install
