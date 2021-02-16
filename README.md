@@ -1,8 +1,11 @@
 # Vuex Firestore Pokemon Starter Example
 ## Demo
 [Pokemon demo!](https://pokemonexempel.web.app/login)
+#### Pokemons colletion
+![Pokemons](https://github.com/abbjoafli/VUEFIREBASE-Pokemon-example/blob/main/trainers.PNG?raw=true)
 
-
+#### Trainers colletion
+![Trainers](https://github.com/abbjoafli/VUEFIREBASE-Pokemon-example/blob/main/pokemons.PNG?raw=true)
 ## Saker att göra för att utvecklas
 Vill man inte leka runt fritt i projektet kan man göra dessa saker för att lära sig mer om vue och känna att man bemästrar det.
 
@@ -49,10 +52,12 @@ Som hjälp för att förstå detta finns jättebra resurser på internet blandan
 
 Här nedan skrver jag ett tipps på hur man skulle kunna sortera på gräs och även ett mer dynamiskt alternativ där man kan sortera på valdtyp. 
 
-``this.pokemons.filter(pokemon=> pokemon.type== "grass")
+`` this.pokemons.filter(pokemon=> pokemon.type== "grass")
 this.pokemons.filter(pokemon=> pokemon.type== this.Choosentype)
 
 ``
+
+
 Sortera och mappa får ni googla fram själv och se om ni kan hitta något kreativt användingsområde för!
 
 
