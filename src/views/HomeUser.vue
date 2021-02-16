@@ -24,7 +24,7 @@ export default {
   props: {},
   data: () => ({}),
   computed: {
-    ...mapGetters("pokemons", ["MypokemonsShow", "pokemons"]),
+    ...mapGetters("pokemons", ["MypokemonsShow"]),
     ...mapGetters(["uid"]),
   },
   methods: {

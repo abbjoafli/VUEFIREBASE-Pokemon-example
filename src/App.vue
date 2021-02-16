@@ -115,7 +115,11 @@ export default {
   },
   created() {
     firebase.auth().onAuthStateChanged((user) => {
-      this.loggedIn = !this.loggedIn;
+      if (user!=null) {
+        this.loggedIn =true;
+      }
+      else
+      this.loggedIn = false;
       this.setUser(user || null);
     });
   },

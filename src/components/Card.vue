@@ -87,8 +87,6 @@
                 'Dragon',
                 'Legendary',
               ]"
-              item-text="[0]"
-              item-value="[1]"
               attach
               chips
               label="Svaghet"

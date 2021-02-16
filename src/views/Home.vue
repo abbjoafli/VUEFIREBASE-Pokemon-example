@@ -20,7 +20,7 @@ export default {
   props: {},
   data: () => ({}),
   computed: {
-    ...mapGetters("pokemons", ["pokemonsShow", "pokemons"]),
+    ...mapGetters("pokemons", ["pokemonsShow"]),
   },
   methods: {
     ...mapActions("pokemons", ["initPokemons"]),
