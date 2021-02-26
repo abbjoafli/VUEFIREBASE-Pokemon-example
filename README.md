@@ -10,7 +10,12 @@
 
 ## Demo
 [Pokemon demo!](https://pokemonexempel.web.app/login)
+
 [Video som förklarar koden](https://web.microsoftstream.com/video/4eee78f4-b192-4195-a3a4-c49780c11436)
+
+[Video som går igenom hur man löser uppgifterna samt samband mellan vue-store-firebase ](https://web.microsoftstream.com/video/7d924438-78e4-4127-9efc-f2413384c5da)
+
+
 #### Pokemons colletion
 ![Pokemons](https://github.com/abbjoafli/VUEFIREBASE-Pokemon-example/blob/main/trainers.PNG?raw=true)
 
