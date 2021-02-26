@@ -1,6 +1,15 @@
 # Vuex Firestore Pokemon Starter Example
+## Installation
+1. Öppna CMD i mappen du vill ha projektet i. (Enklast genom att klicka i filvägsfältet och skriva cmd)
+2. clona projektet genom att skriva "git clone https://github.com/abbjoafli/VUEFIREBASE-Pokemon-example.git Pokemon" det sista säger att den nya mappen ska heta pokemon.
+3. Gå in i mappen genom att skriva "cd Pokemon"
+4. Installera resurserna som behövs för att köra koden "npm install"
+5. Kör projektet "npm run serve"
+6. Gå in på localhost:8080 och se sidan!
+
 ## Demo
 [Pokemon demo!](https://pokemonexempel.web.app/login)
+[Video som förklarar koden](https://web.microsoftstream.com/video/4eee78f4-b192-4195-a3a4-c49780c11436)
 #### Pokemons colletion
 ![Pokemons](https://github.com/abbjoafli/VUEFIREBASE-Pokemon-example/blob/main/trainers.PNG?raw=true)
 
