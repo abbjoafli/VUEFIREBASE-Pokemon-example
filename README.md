@@ -6,6 +6,7 @@
 4. Installera resurserna som behövs för att köra koden "npm install"
 5. Kör projektet "npm run serve"
 6. Gå in på localhost:8080 och se sidan!
+7. Vill du inte att projektet uppmanar dig till att pusha till git så ta bort mappen .git i projektmappen.
 
 ## Demo
 [Pokemon demo!](https://pokemonexempel.web.app/login)
